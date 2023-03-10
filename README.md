@@ -2,11 +2,6 @@
 
 Flask API that merges a list of PDF files into one
 
-### Requirements
-
-- Python 3.10+
-- Pipenv
-
 ### Setup
 
 1. Clone the repository
