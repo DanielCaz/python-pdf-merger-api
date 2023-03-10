@@ -1,4 +1,4 @@
-# Python Merger API
+# Python PDF Merger API
 
 Flask API that merges a list of PDF files into one
 
